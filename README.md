@@ -1,10 +1,8 @@
-# 🎧 RádiosDevStream - Streaming de Rádio Online
+# 🎧 Rádios Stream - Streaming de Rádio Online
 
 ## 🌟 Visão Geral do Projeto
 
-O **RádiosDevStream** é uma aplicação web que desenvolvi como meu projeto pessoal final para a **Imersão Dev com Alura e Google - 10ª Edição**. Ele transforma uma base de dados JSON em uma aplicação interativa com um Player de Mídia funcional. O projeto destaca-se pela experiência do usuário (UX/UI) moderna, utilizando Glassmorphism, design responsivo (Mobile-First) e JavaScript para controle dinâmico da tag <audio>, permitindo buscar e reproduzir estações de rádio com feedback visual em tempo real (Equalizador).
-
-> *Este projeto é um upgrade de um desafio proposto durante a Imersão Dev com Alura + Google - 10ª Edição, aplicando técnicas de desenvolvimento profissional e com utilização de IA.
+O **Rádios Stream** é uma aplicação web que desenvolvi que transforma uma base de dados JSON em uma aplicação interativa com um Player de Mídia funcional. O projeto destaca-se pela experiência do usuário (UX/UI) moderna, utilizando Glassmorphism, design responsivo (Mobile-First) e JavaScript para controle dinâmico da tag <audio>, permitindo buscar e reproduzir estações de rádio com feedback visual em tempo real (Equalizador).
 
 ---
 
@@ -58,5 +56,8 @@ Este projeto foi desenvolvido por:
 * **Emerson Farias**
 * **[GitHub](https://github.com/emersonfariasmcz)**
 * **[LinkedIn](https://www.linkedin.com/in/emersonfariasbr/)**
-* **Base de Conhecimento:** [Alura](https://www.alura.com.br/)
 
+---
+## 🧑‍💻 Visualização do Projeto (Deploy) 
+
+Para visualizar o projeto acesse: https://emersonfariasmcz.github.io/radiosstream/  
